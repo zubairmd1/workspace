@@ -2,3 +2,8 @@ This is my first line from File1, thank you
 I m adding few more codes in file1 file
 thank you
 hard work pays off
+=====================
+School Time
+Coollege Time
+Office Time
+======================
