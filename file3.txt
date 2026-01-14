@@ -1,0 +1,3 @@
+This is my 3rd file, preparing for myself
+thank you
+appending some data in file3
